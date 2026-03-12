@@ -1,0 +1,8 @@
+streamlit 
+pandas
+ joblib
+ plotly
+ config
+ json
+ datetime
+ numpy 
